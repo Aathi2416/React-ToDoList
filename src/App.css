@@ -1,9 +1,9 @@
 :root {
-  --list-name-bg-color: rgb(130, 186, 238);
+  --list-name-bg-color: rgb(130, 238, 152);
   --main-bg-color: rgb(230, 230, 230);
-  --button-bg-color: rgb(91, 151, 224);
-  --button-hover-color: rgb(32, 95, 173);
-  --list-border-color: rgb(200, 200, 200);
+  --button-bg-color: rgb(91, 224, 142);
+  --button-hover-color: rgb(32, 173, 46);
+  --list-border-color: rgb(187, 233, 192);
 }
 
 #to-do-list-container {
